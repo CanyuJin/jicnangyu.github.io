@@ -15,6 +15,8 @@ I am a Postdoctoral Fellow and Research Assistant Professor at the [School of Ma
 # Education
 
 * Ph.D. in Agricultural Economics and Management, Zhejiang University, 2022
+* M.S. in Agricultural Economics and Management, Lanzhou University, 2016
+* B.S. in Logistics Management, Jilin University,2012
 
 # Research Interests
 
