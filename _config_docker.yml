@@ -1,1 +1,12 @@
-url: ""
+title: "jincangyu/ Personal Homepage"
+name: "Cangyu Jin"
+description: "个人简介"
+url: "https://你的用户名.github.io"
+
+# 社交链接
+author:
+  name: "你的名字"
+  email: "your@email.com"
+  github: "你的GitHub用户名"
+  google_scholar: "你的Google Scholar链接"
+  location: "城市, 学校"url: ""
